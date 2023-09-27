@@ -22,5 +22,5 @@
   <a href = "mailto:daniel.araujo84@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-de-ara%C3%BAjo-bezerra-45452717b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.twitch.tv/danielaraujo84" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
+https://cdn.discordapp.com/attachments/797858841349718026/1156403628354043904/1516939666_1495492931_tumblr_oancbjkgyF1uedxbxo2_500.gif?ex=6514d84d&is=651386cd&hm=76eca426fc4eabc49fbe053f7b5da0cd000004d8a8453e8d78d91636df64722f&
 </div>
