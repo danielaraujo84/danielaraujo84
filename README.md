@@ -1,4 +1,4 @@
-## Bem-vindo(a)! Eu sou danielaraujo84!😁😎🖥️🖱️🧑‍💻
+## Bem-vindo(a)! Eu sou danielaraujo84!🖥️🖱️🧑‍💻
 
  <div>
    <a href="https://github.com/danielaraujo84">
