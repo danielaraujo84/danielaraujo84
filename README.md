@@ -1,4 +1,4 @@
-## Bem-vindo(a)! 🧑‍💻 Olá! Sou danielaraujo84, um entusiasta de tecnologia em busca de desafios e aprendizado contínuo. Explore meus projetos e junte-se à minha jornada de desenvolvimento no GitHub!
+## Bem-vindo(a)! 🧑‍💻 Olá! Sou danielaraujo84, um desenvolvedor em ascensão, apaixonado por programação e em busca de desafios e aprendizado contínuo. Explore meus projetos e junte-se à minha jornada de desenvolvimento no GitHub!
 
  <div>
    <a href="https://github.com/danielaraujo84">
